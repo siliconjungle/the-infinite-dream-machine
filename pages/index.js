@@ -27,7 +27,7 @@ const Home = ({ articleSlugs }) => {
         </Heading>
         <Text>
           The Infinite Dream Machine is a collection of short stories that emerged from a collaboration between the author and ChatGPT-4.
-The anthology invites readers to explore the intersection of dreams and reality through various narratives. Touching upon time and space, magic, and the human psyche, the stories delve into themes such as self-discovery, knowledge-seeking, and the changing nature of identity. "The Infinite Dream Machine" offers a range of thought-provoking tales that reveal the expansive scope of human imagination and the complexities of our lives.
+The anthology invites readers to explore the intersection of dreams and reality through various narratives. Touching upon time and space, magic, and the human psyche, the stories delve into themes such as self-discovery, knowledge-seeking, and the changing nature of identity. The Infinite Dream Machine offers a range of thought-provoking tales that reveal the expansive scope of human imagination and the complexities of our lives.
         </Text>
         {articleSlugs.length && (
           <Heading as='h2' size='xl'>
