@@ -1,3 +1,5 @@
+# The Magicians Observatory
+
 High atop a desolate mountain peak, where the wind whispered ancient secrets, lay the hidden observatory of the world's most intriguing magician. Within its walls, the magician delved into the depths of the human psyche, seeking to understand the mysteries of perception and harness the untapped power of illusion.
 
 It was said that the magician could create illusions that seemed to bend the very fabric of reality, weaving together the delicate threads of existence to conjure unimaginable wonders. Yet for all his skill, he remained unsatisfied, forever searching for the elusive secret that would grant him mastery over the infinite.
