@@ -12,7 +12,7 @@ const Footer = () => {
       justifyContent='center'
       borderWidth='1px 0 0 0'
     >
-      All content copyright James Addison © 2023 • All rights reserved.
+      The Infinite Dream Machine
     </Box>
   )
 }
